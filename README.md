@@ -1,6 +1,6 @@
-# Bowak Maxoptra API
+# Maxoptra API
 
-Bowak Python script to collect data and schedule deliveries & collections with Maxoptra via their REST API Version 2.
+Python script to collect data and schedule deliveries & collections with Maxoptra via their REST API Version 2.
 API Documentation: https://doc.maxoptra.com/docs/display/MX/REST+API
 
 ## Installation
@@ -18,7 +18,7 @@ The following moduals will need to be installed, which are not standard with Pyt
 - xmltodict
 - dict2xml
 
-Use: `pip3 install module_name` in command prompt to install any missing modules.
+Use: `pip install module_name` in command prompt to install any missing modules.
 
 ## Usage :computer:
 
